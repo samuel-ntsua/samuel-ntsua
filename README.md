@@ -7,8 +7,3 @@ Being the only IT person on a team of social researchers, I am a self-starter wi
 I took some online bootcamps to learn data science and Machine learning. 
 - 💞️ Now, I am seeking the opportunity as a Machine Learning Engineer to consolidate my skills and apply my knowledge in a production environment.
 - 📫 I can be reached on linkedIn (www.linkedin.com/in/samuelntsua)
-
-<---
-samuel-ntsua/samuel-ntsua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
