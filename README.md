@@ -21,7 +21,7 @@ Deep Learning/ R (Programming Language)/ A/B Testing/ MySQL/ Rsync/ Globus/ Post
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-ntsua&theme=shades-of-purple&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samuel-ntsua)  
+<!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samuel-ntsua) ---> 
 
 ![GitHub metrics](https://metrics.lecoq.io/samuel-ntsua)  
 
