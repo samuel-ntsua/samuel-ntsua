@@ -1,14 +1,94 @@
-😂 Hi, I’m @samuel-ntsua, an Analyst at 🏢UNC-Chapel Hill.<br>
-💼 I am enthusiastic about data, around which I formulate reliable and rational arguments to transform business rules and concepts from often ambiguous and incomplete instruction into a working programming logic. At my current job, I harvest, move, transform, and store data while automating the process. I write scripts in bash, PowerShell, python, SQL, and Stata (and of course, using education sector data domain knowledge) to build multi-panel and hierarchical datasets out of administrative as well as survey data sources.<br>
-As administrative data comes with unexpected patterns of inconsistencies, established best practices are no longer sufficient to tackle data quality issues. Besides, the varying demands of my Principal Investigators makes my daily job constantly evolving. This forces me to think creatively to solve data problems. Being the only IT person on a team of social science researchers, I am a initiative-taker with experience managing multiple timelines and changing priorities to deliver on targets.<br>
-⁉️ Is it possible to learn computer programming without computer? Unlike most developers, my first working computer program was not <br> :x: ```print(“Hello World!”)```,<br> :x: ```display "Hello World!"```,<br> :x: ```print("Allo le monde!", quote = FALSE)```,<br> :x: ```System.out.println("Hello World!")```,<br> :x: ```console.log("Hello World!")```, nor :x: ```std::cout << “Hello Word!”```.<br> ✅In fact, there was no screen to print to.<br> ✅I learned to code QBasic on a blackboard to implement <br>
-$$ R^2 = \left[  \left( n\sum x y - \left(\sum x \right)\left(\sum y \right)\right) \over \left( \sqrt{n\sum x^2 - \left(\sum x \right)^2 } * \sqrt{n\sum y^2 - \left(\sum y \right)^2 }  \right) \right]^2 $$
-<br> and even passed a university course in QBasic programming🌍. Little did I know that writing codes without seeing the output was preparing me for the abstract thinking found in modern software engineering, machine learning and cloud computing. This explains why I enjoy transforming ambiguous instruction into functional business logic.<br>
-👨‍🎓 To most Econ graduates, model thinking is the basic core. But I took graduate level statistics, numerical analysis and multivariable calculus to deepen my analytical thinking during my formal education in Economics. I used my analytical, abstract, and model thinking to teach myself multiple programming languages and software development concepts. Those same problem solving and thinking tools are my motive to learn data science and machine learning in online bootcamps.<br>
-👨‍💻 Now, I am seeking the opportunity to join a team at mid-career level 🥷Data Scientist, 🥷Data Engineer, or 🥷Machine Learning Engineer to consolidate my skills and challenge myself in a production environment.<br>
-📨 If you think I can be a good fit for your team, please direct-message me on linkedIn (www.linkedin.com/in/sntsua-machine-learning-software-data-engineer-mlops).<br> Generic messages make me feel I am talking/charting with a bot. To determine if I am a good match for your position as well as avoid lengthy back-and-forth, kindly include answers (as much as possible) to the following questions in your message to me:<br>
-	a) Company/Department/Position you are recruiting for.<br>
-	b) Describe what each stage of the interview contains for mid-career level. Because it is hard to prepare for interview while working full time, please direct me to resource to successfully ace each stage🙏 . I strongly believe my success is your success.<br>
-	c) By day 📆 45, 90 and 120, I will gain exposure to ….; By day 📆 90 and 120, I am expected to ….<br>
-	d) Has my future supervisor performed the duties of the position in the past? In other words, does s/he know what the position entail at a low level (not at a bird’s-eye view)<br>
-	e) Base salary range💰, signing bonus💸, work from home options (Yes/No), stock options (Yes/No), profit sharing (Yes/No), relocation grant💵 (Yes/No), student loan assistance (Yes/No).<br>
+# Hi there, I'm Samuel Ntsua 
+#### Analyst at UNC-Chapel Hill 
+
+As an enthusiastic about data, around which I formulate reliable and rational arguments to transform business rules and concepts from often ambiguous and incomplete instruction into a working programming logic. At my current job, I harvest, move, transform, and store data while automating the process. I write scripts in bash, PowerShell, python, SQL, and Stata (and of course, using education sector data domain knowledge) to build multi-panel and hierarchical datasets out of administrative as well as survey data sources.
+I am seeking the opportunity to join a team at mid-career level Data Scientist, Data Engineer, or Machine Learning Engineer to consolidate my skills and challenge myself in a production environment. 
+
+## Skills
+Deep Learning/ R (Programming Language)/ A/B Testing/ MySQL/ Rsync/ Globus/ PostgreSQL/ Python (Programming Language)/ Apache Spark/ Data Analysis/ Econometrics/ Data Collection/ Statistical Modeling/ SAS Programming/ Hadoop/ Stata/ Git/ Microsoft Power BI/ SQL/ Tableau/ Tableau Desktop/ Anaconda(Jupyter,Spyder,Pandas,R-RStudio,dplyr)/ Machine Learning/ Data Science with R/ Microeconometrics/ Data Engineering/ Big Data Analytics/ Cloud Computing/ Data Science and Machine Learning/ Amazon Web Services (AWS)/ Linux/ LPI Linux Essentials/ Amazon Dynamodb/ Amazon S3/ Big Data/ Data Science with Python/ Amazon API Gateway 
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## Connect With Me 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samuel-ntsua)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sntsua-machine-learning-software-data-engineer-mlops/) 
+
+<!---[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/facebook)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/instagram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/twitter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/reddit) 
+--->
+ 
+<!---
+[![trophy](https://github-profile-trophy.vercel.app/?username=samuel-ntsua)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-ntsua)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-ntsua&theme=shades-of-purple&show_icons=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samuel-ntsua)  
+
+![GitHub metrics](https://metrics.lecoq.io/samuel-ntsua)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samuel-ntsua)  
+
+![Profile views](https://gpvc.arturio.dev/samuel-ntsua)  
+
+## Stock Exchange Data Analysis using Big-Data tools such as Hadoop, HIVE and Sqoop.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Big-Data_Hadoop_and_Spark_Developer&theme=yeblu)](https://github.com/samuel-ntsua/Big-Data_Hadoop_and_Spark_Developer)
+### Objectives
+- To use HIVE and Sqoop features for data engineering or analysis and sharing the actionable insights.
+#### Technology/Techniques Used
+- python 
+- sql 
+- hiveql
+- hue-api 
+- hadoop-hdfs 
+- sqoop-import
+
+## DataScience_Capstone_Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_Capstone_Project&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_Capstone_Project)
+### Objectives
+- Predict whether or not a patient has diabetes , based on certain diagnostic measurements included in the dataset.
+- Build a model to accurately predict whether the patients in the dataset have diabetes or not. 
+#### Technology/Techniques Used
+- machine-learning-algorithms 
+- python3 
+- scikitlearn-machine-learning 
+- xgboost-algorithm 
+- missing-values 
+- seaborn-plots 
+- extratrees
+
+## Mercedes-Benz Greener Manufacturing
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Machine_Learning_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/Machine_Learning_with_Python)
+### Objectives
+- Reduce the time a Mercedes-Benz spends on the test bench.
+#### Technology/Techniques Used
+- label encoder 
+- dimensionality reduction 
+- xgboost
+
+## Data Science with R Programming
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_with_R-programming&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_with_R-programming)
+### Objectives
+-  To record the patient statistics, the agency wants to find the age category
+of people who frequent the hospital and has the maximum expenditure.
+- In order of severity of the diagnosis and treatments and to find out the
+expensive treatments, the agency wants to find the diagnosis related group
+that has maximum hospitalization and expenditure.
+- To make sure that there is no malpractice, the agency needs to analyze if
+the race of the patient is related to the hospitalization costs.
+- To properly utilize the costs, the agency has to analyze the severity of the
+hospital costs by age and gender for proper allocation of resources.
+Since the length of stay is the crucial factor for inpatients, the agency wants
+to find if the length of stay can be predicted from age, gender, and race.
+- To perform a complete analysis, the agency wants to find the variable that
+mainly affects the hospital costs.
+#### Technology/Techniques Used
+- python 
+- data-science 
+- machine-learning 
+- r-programming-language
+
+## DataScience_with_Python
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_with_Python)
+
+## Tableau_project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Tableau_project&theme=yeblu)](https://github.com/samuel-ntsua/Tableau_project)
+--->
