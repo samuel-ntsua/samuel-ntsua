@@ -44,12 +44,7 @@ Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Py
 - Predict whether or not a patient has diabetes , based on certain diagnostic measurements included in the dataset.
 - Build a model to accurately predict whether the patients in the dataset have diabetes or not. 
 #### Technology/Techniques Used
-- scikit-learn library
-- machine-learning-algorithms
-- xgboost-algorithm
-- missing-values
-- seaborn-plots
-- extratrees
+- `scikit-learn library` `machine-learning-algorithms` `xgboost-algorithm` `missing-values` `seaborn-plots` `extratrees`
 
 ## Mercedes-Benz Greener Manufacturing
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Machine_Learning_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/Machine_Learning_with_Python)
@@ -57,10 +52,7 @@ Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Py
 - Reduce the time a Mercedes-Benz spends on the test bench
 
 #### Technology/Techniques Used
-- scikit-learn library
-- label encoder
-- dimensionality reduction 
-- xgboost
+- `scikit-learn library` `label encoder` `dimensionality reduction` `xgboost`
 
 ## Data Science with R Programming
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_with_R-programming&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_with_R-programming)
@@ -80,9 +72,7 @@ to find if the length of stay can be predicted from age, gender, and race.
 mainly affects the hospital costs.
 
 #### Technology/Techniques Used
-- r-programming-language/rstudio
-- supervised learning 
-- linear regression
+- `r-programming-language/rstudio` `supervised learning` `linear regression`
 
 ## DataScience_with_Python
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_with_Python)
