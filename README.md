@@ -34,7 +34,12 @@ Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Py
 ### Objectives
 - To use HIVE and Sqoop features for data engineering or analysis and sharing the actionable insights.
 #### Technology/Techniques Used
-- python - sql - hiveql - hue-api - hadoop-hdfs - sqoop-import
+- python3
+- mysql
+- hiveQL 
+- hue-api
+- hadoop-hdfs
+- sqoop-import
 
 ## DataScience_Capstone_Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_Capstone_Project&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_Capstone_Project)
@@ -42,7 +47,13 @@ Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Py
 - Predict whether or not a patient has diabetes , based on certain diagnostic measurements included in the dataset.
 - Build a model to accurately predict whether the patients in the dataset have diabetes or not. 
 #### Technology/Techniques Used
-- machine-learning-algorithms - python3 - scikitlearn-machine-learning - xgboost-algorithm - missing-values - seaborn-plots - extratrees
+- machine-learning-algorithms
+- python3
+- scikitlearn-machine-learning
+- xgboost-algorithm
+- missing-values
+- seaborn-plots
+- extratrees
 
 ## Mercedes-Benz Greener Manufacturing
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Machine_Learning_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/Machine_Learning_with_Python)
@@ -69,15 +80,20 @@ Since the length of stay is the crucial factor for inpatients, the agency wants
 to find if the length of stay can be predicted from age, gender, and race.
 - To perform a complete analysis, the agency wants to find the variable that
 mainly affects the hospital costs.
+
 #### Technology/Techniques Used
-- python 
-- data-science 
-- machine-learning 
-- r-programming-language
+- r-programming-language/rstudio
+- supervised learning 
+- linear regression
 
 ## DataScience_with_Python
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_with_Python)
+### Objectives
+
+#### Technology/Techniques Used
 
 ## Tableau_project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Tableau_project&theme=yeblu)](https://github.com/samuel-ntsua/Tableau_project)
+### Objectives
 
+#### Technology/Techniques Used
