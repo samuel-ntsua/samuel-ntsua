@@ -36,12 +36,7 @@ Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Py
 - To use HIVE and Sqoop features for data engineering or analysis and sharing the actionable insights.
 
 #### Technology/Techniques Used
-- python3
-- mysql
-- hiveQL 
-- hue-api
-- hadoop-hdfs
-- sqoop-import
+- `python3` `mysql` `hiveQL` `hue-api` `hadoop-hdfs` `sqoop-import`
 
 ## DataScience_Capstone_Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_Capstone_Project&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_Capstone_Project)
