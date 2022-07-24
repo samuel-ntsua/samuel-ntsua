@@ -5,7 +5,7 @@ As an enthusiastic about data, around which I formulate reliable and rational ar
 I am seeking the opportunity to join a team at mid-career level Data Scientist, Data Engineer, or Machine Learning Engineer to consolidate my skills and challenge myself in a production environment. 
 
 ## Skills
-Deep Learning/ R (Programming Language)/ A/B Testing/ MySQL/ Rsync/ Globus/ PostgreSQL/ Python (Programming Language)/ Apache Spark/ Data Analysis/ Econometrics/ Data Collection/ Statistical Modeling/ SAS Programming/ Hadoop/ Stata/ Git/ Microsoft Power BI/ SQL/ Tableau/ Tableau Desktop/ Anaconda(Jupyter,Spyder,Pandas,R-RStudio,dplyr)/ Machine Learning/ Data Science with R/ Microeconometrics/ Data Engineering/ Big Data Analytics/ Cloud Computing/ Data Science and Machine Learning/ Amazon Web Services (AWS)/ Linux/ LPI Linux Essentials/ Amazon Dynamodb/ Amazon S3/ Big Data/ Data Science with Python/ Amazon API Gateway 
+Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Python (Programming Language) | Amazon Web Services (AWS) | Amazon Dynamodb | Amazon S3 | Amazon API Gateway | STATA | SAS Programming | Linux/Bash/SSH | Rsync | Globus | Hadoop | Apache Spark | Git |Tableau Desktop | Anaconda(Jupyter,Spyder,Pandas,R-RStudio,dplyr) | Machine Learning | Big Data Analytics | Data Analysis | Linear Regression | Data Collection | Statistical Modeling | Microeconometrics
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 ## Connect With Me 
@@ -34,12 +34,7 @@ Deep Learning/ R (Programming Language)/ A/B Testing/ MySQL/ Rsync/ Globus/ Post
 ### Objectives
 - To use HIVE and Sqoop features for data engineering or analysis and sharing the actionable insights.
 #### Technology/Techniques Used
-- python 
-- sql 
-- hiveql
-- hue-api 
-- hadoop-hdfs 
-- sqoop-import
+- python - sql - hiveql - hue-api - hadoop-hdfs - sqoop-import
 
 ## DataScience_Capstone_Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_Capstone_Project&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_Capstone_Project)
@@ -47,13 +42,7 @@ Deep Learning/ R (Programming Language)/ A/B Testing/ MySQL/ Rsync/ Globus/ Post
 - Predict whether or not a patient has diabetes , based on certain diagnostic measurements included in the dataset.
 - Build a model to accurately predict whether the patients in the dataset have diabetes or not. 
 #### Technology/Techniques Used
-- machine-learning-algorithms 
-- python3 
-- scikitlearn-machine-learning 
-- xgboost-algorithm 
-- missing-values 
-- seaborn-plots 
-- extratrees
+- machine-learning-algorithms - python3 - scikitlearn-machine-learning - xgboost-algorithm - missing-values - seaborn-plots - extratrees
 
 ## Mercedes-Benz Greener Manufacturing
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Machine_Learning_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/Machine_Learning_with_Python)
