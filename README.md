@@ -14,7 +14,7 @@ Deep Learning/ R (Programming Language)/ A/B Testing/ MySQL/ Rsync/ Globus/ Post
 <!---[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/facebook)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/instagram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/twitter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/reddit) 
 --->
  
-<!---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=samuel-ntsua)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-ntsua)](https://github.com/anuraghazra/github-readme-stats)
@@ -91,4 +91,4 @@ mainly affects the hospital costs.
 
 ## Tableau_project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Tableau_project&theme=yeblu)](https://github.com/samuel-ntsua/Tableau_project)
---->
+
