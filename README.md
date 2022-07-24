@@ -31,8 +31,10 @@ Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Py
 
 ## Stock Exchange Data Analysis using Big-Data tools such as Hadoop, HIVE and Sqoop.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Big-Data_Hadoop_and_Spark_Developer&theme=yeblu)](https://github.com/samuel-ntsua/Big-Data_Hadoop_and_Spark_Developer)
+
 ### Objectives
 - To use HIVE and Sqoop features for data engineering or analysis and sharing the actionable insights.
+
 #### Technology/Techniques Used
 - python3
 - mysql
@@ -47,9 +49,8 @@ Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Py
 - Predict whether or not a patient has diabetes , based on certain diagnostic measurements included in the dataset.
 - Build a model to accurately predict whether the patients in the dataset have diabetes or not. 
 #### Technology/Techniques Used
+- scikit-learn library
 - machine-learning-algorithms
-- python3
-- scikitlearn-machine-learning
 - xgboost-algorithm
 - missing-values
 - seaborn-plots
@@ -58,9 +59,11 @@ Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Py
 ## Mercedes-Benz Greener Manufacturing
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Machine_Learning_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/Machine_Learning_with_Python)
 ### Objectives
-- Reduce the time a Mercedes-Benz spends on the test bench.
+- Reduce the time a Mercedes-Benz spends on the test bench
+
 #### Technology/Techniques Used
-- label encoder 
+- scikit-learn library
+- label encoder
 - dimensionality reduction 
 - xgboost
 
@@ -88,12 +91,16 @@ mainly affects the hospital costs.
 
 ## DataScience_with_Python
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=DataScience_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/DataScience_with_Python)
+
 ### Objectives
+
 
 #### Technology/Techniques Used
 
 ## Tableau_project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Tableau_project&theme=yeblu)](https://github.com/samuel-ntsua/Tableau_project)
+
 ### Objectives
+To compute life insurance share including growth indicator.
 
 #### Technology/Techniques Used
