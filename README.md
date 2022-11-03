@@ -82,12 +82,14 @@ mainly affects the hospital costs.
 
 
 #### Technology/Techniques Used
-- `Pandas` `NumPy` `supervised learning` `linear regression``scikit-learn` `xgboost` `seaborn-plots` `GitLab`
+- `Pandas` `NumPy` `supervised learning` `linear regression` `scikit-learn` `xgboost` `seaborn-plots` `GitLab`
+
 ## Tableau_project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Tableau_project&theme=yeblu)](https://github.com/samuel-ntsua/Tableau_project)
 
 ### Objectives
-To compute life insurance share including growth indicator.
+Compute and display a Country's economic growth indicator as well as the percentage of it's population who purchased life insurance.
 
 #### Technology/Techniques Used
+- `Tableau public` `data merge` `variable transformation` `statistical measures computation`
 
