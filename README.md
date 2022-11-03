@@ -91,5 +91,5 @@ mainly affects the hospital costs.
 Compute and display a Country's economic growth indicator as well as the percentage of it's population who purchased life insurance.
 
 #### Technology/Techniques Used
-- `Tableau public` `data merge` `variable transformation` `statistical measures computation`
+- `Tableau public` `growth-kpi` `linear-trend` `kpi-dashboard` `data merge` `statistical measures computation`
 
