@@ -50,7 +50,7 @@ Deep Learning | R (Programming Language) | A/B Testing | MySQL | PostgreSQL | Py
 ## Mercedes-Benz Greener Manufacturing
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-ntsua&repo=Machine_Learning_with_Python&theme=yeblu)](https://github.com/samuel-ntsua/Machine_Learning_with_Python)
 ### Objectives
-- Reduce the time a Mercedes-Benz spends on the test bench
+- Used Xgboost to narrow down features, yet get a good prediction of vehicule safety standard, thus reducing the time a Mercedes-Benz spends on the test bench.
 
 #### Technology/Techniques Used
 -  `Pandas` `NumPy` `machine-learning-algorithms` `scikit-learn` `xgboost` `label encoder` `dimensionality reduction` `seaborn-plots` `GitLab`
