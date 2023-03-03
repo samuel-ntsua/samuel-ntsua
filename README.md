@@ -1,8 +1,8 @@
 # Hi there, I'm Samuel Ntsua 
 #### Analyst at UNC-Chapel Hill 
 
-As an enthusiastic about data, around which I formulate reliable and rational arguments to transform business rules and concepts from often ambiguous and incomplete instruction into a working programming logic. At my current job, I harvest, move, transform, and store data while automating the process. I write scripts in bash, PowerShell, python, SQL, and Stata (and of course, using education sector data domain knowledge) to build multi-panel and hierarchical datasets out of administrative as well as survey data sources.
-I am seeking the opportunity to join a team at mid-career level Data Scientist, Data Engineer, or Machine Learning Engineer to consolidate my skills and challenge myself in a production environment. 
+I am enthusiastic about data, around which I formulate reliable and rational arguments to transform business rules and concepts from often ambiguous and incomplete instruction into a working programming logic. At my current job, I harvest, move, transform, and store data while automating the process. I write scripts in bash, PowerShell, python, SQL, and Stata to build multi-panel and hierarchical datasets out of administrative data and survey sampling data.
+I am seeking an opportunity to join a data team at mid-career level as Data Scientist, Data Engineer, or Machine Learning Engineer to propel the team's efforts and challenge myself in a production environment. 
 
 ## Skills
 
